@@ -2,7 +2,7 @@ import React from 'react'
 
 export const GifGridItem = ( { title, url} ) => {
     return (
-        <div className="column is-4">
+        <div className="column is-4 animate__animated animate__pulse">
             <div className="card">
                 <div className="card-image">
                     <figure className="image is-4by3">

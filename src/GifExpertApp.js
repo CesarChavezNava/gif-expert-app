@@ -4,6 +4,7 @@ import { AddCategory } from './components/AddCategory';
 import { GifGrid } from './components/GifGrid';
 
 import 'bulma/css/bulma.min.css';
+import 'animate.css'
 
 const GifExpertApp = () => {
     const initialState = ['Gantz']
@@ -12,9 +13,9 @@ const GifExpertApp = () => {
     return (
         <>
             <section className="hero is-primary">
-                <div class="hero-body">
-                    <div class="container">
-                        <h1 class="title">
+                <div className="hero-body">
+                    <div className="container">
+                        <h1 className="title">
                             GifExpertApp
                         </h1>
                     </div>
