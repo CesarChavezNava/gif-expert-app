@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,sCACF,CAEA,MACE,UACF,CAEA,WACE,cACF","file":"main.02c3056a.chunk.css","sourcesContent":["* {\n  font-family: Helvetica, Arial, sans-serif;\n}\n\ninput {\n  width: 100%;\n}\n\n.container {\n  padding: 20px 0;\n}"]}
