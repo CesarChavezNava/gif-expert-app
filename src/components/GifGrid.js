@@ -9,8 +9,8 @@ export const GifGrid = ({ category }) => {
 
     return (
         <div className="container is-fluid">
-           { loading && <progress className="progress is-small is-primary" max="100">15%</progress> }
-           <h3>{category}</h3> 
+            { loading && <progress className="progress is-small is-primary" max="100">15%</progress> }
+           <h3 className="subtitle">{category}</h3> 
            <div className="columns">
                {
                    images.map((image) => (
