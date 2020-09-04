@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del componente GifGridItem Debe mostrar el componente correctamente 1`] = `
+<div
+  className="column is-4 animate__animated animate__pulse"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card-image"
+    >
+      <figure
+        className="image is-4by3"
+      >
+        <img />
+      </figure>
+    </div>
+    <div
+      className="card-content"
+    >
+      <div
+        className="content"
+      >
+        <p />
+      </div>
+    </div>
+  </div>
+</div>
+`;
