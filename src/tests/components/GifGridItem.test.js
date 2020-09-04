@@ -29,7 +29,7 @@ describe('Pruebas del componente GifGridItem', () => {
         const div = wrapper.find('.column');
         const classes = div.prop('className');
 
-        expect(classes).toMatch('animate__pulse');
+        expect(classes).toMatch('animate__pulse')
     })
     
 });
