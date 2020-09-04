@@ -13,7 +13,10 @@ exports[`Pruebas del componente GifGridItem Debe mostrar el componente correctam
       <figure
         className="image is-4by3"
       >
-        <img />
+        <img
+          alt="crybaby GIF"
+          src="https://media3.giphy.com/media/ygAmzS6qTOkzxG0VsB/giphy.gif?cid=ef5ad807tpsqr3euuhgy4cxigprybtps0f2qg0y73q8x3cqq&rid=giphy.gif"
+        />
       </figure>
     </div>
     <div
@@ -22,7 +25,9 @@ exports[`Pruebas del componente GifGridItem Debe mostrar el componente correctam
       <div
         className="content"
       >
-        <p />
+        <p>
+          crybaby GIF
+        </p>
       </div>
     </div>
   </div>
