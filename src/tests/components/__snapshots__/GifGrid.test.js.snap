@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de GifGrid Debe mostrar el componente correctamente 1`] = `
+<div
+  className="container is-fluid"
+>
+  <progress
+    className="progress is-small is-primary"
+    max="100"
+  >
+    15%
+  </progress>
+  <h3
+    className="subtitle"
+  >
+    Overwatch
+  </h3>
+  <div
+    className="columns"
+  />
+</div>
+`;
