@@ -1,5 +1,33 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Pruebas de GifGrid Debe de mostrar items cuando se cargan imágenes 1`] = `
+<div
+  className="container is-fluid"
+>
+  <h3
+    className="subtitle"
+  >
+    Overwatch
+  </h3>
+  <div
+    className="columns"
+  >
+    <GifGridItem
+      id="qaswdefrgthyjuk"
+      key="qaswdefrgthyjuk"
+      title="culaquier cosa"
+      url="https://localhost/imagen.jpg"
+    />
+    <GifGridItem
+      id="1223435436567567"
+      key="1223435436567567"
+      title="culaquier cosa 2"
+      url="https://localhost/imagen2.jpg"
+    />
+  </div>
+</div>
+`;
+
 exports[`Pruebas de GifGrid Debe mostrar el componente correctamente 1`] = `
 <div
   className="container is-fluid"
